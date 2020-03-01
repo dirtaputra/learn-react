@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "rating": 9.1
+    },
+    {
+      "id": 2,
+      "name": "Casablanca",
+      "director": "Michael Curtiz",
+      "rating": 8.8
+    },
+    {
+      "name": "Beranak dalam kubur",
+      "director": "Mas jangkung",
+      "rating": 9.1,
+      "id": 3
+    },
+    {
+      "name": "Mas Jangkung",
+      "director": "Mas Ari",
+      "rating": 9.9,
+      "id": 4
+    }
+  ]
+}
